@@ -2,9 +2,14 @@
 
 <p align="center">
   <a href="https://www.clocot.com"><b>clocot.com</b></a> &nbsp;·&nbsp;
-  <a href="https://www.clocot.com/offices"><b>Office library</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/company/clocot"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://www.pinterest.com/clocotai"><b>Pinterest</b></a>
+  <a href="https://www.facebook.com/p/Clocot-61596045770551/"><b>Facebook</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/clocotai/"><b>Instagram</b></a> &nbsp;·&nbsp;
+  <a href="https://www.tiktok.com/@clocotai"><b>TikTok</b></a> &nbsp;·&nbsp;
+  <a href="https://www.pinterest.com/clocotai/"><b>Pinterest</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/clocot"><b>X</b></a> &nbsp;·&nbsp;
+  <a href="https://www.reddit.com/user/clocot/"><b>Reddit</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/company/clocot/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://www.threads.com/@clocotai"><b>Threads</b></a>
 </p>
 
 ## What Clocot is
