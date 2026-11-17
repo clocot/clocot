@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.clocot.com"><b>clocot.com</b></a> &nbsp;·&nbsp;
-  <a href="https://www.facebook.com/p/Clocot-61596045770551/"><b>Facebook</b></a> &nbsp;·&nbsp;
+  <a href="https://www.facebook.com/clocotai/"><b>Facebook</b></a> &nbsp;·&nbsp;
   <a href="https://www.instagram.com/clocotai/"><b>Instagram</b></a> &nbsp;·&nbsp;
   <a href="https://www.tiktok.com/@clocotai"><b>TikTok</b></a> &nbsp;·&nbsp;
   <a href="https://www.pinterest.com/clocotai/"><b>Pinterest</b></a> &nbsp;·&nbsp;
